@@ -23,7 +23,7 @@ I’m a front end developer (and web designer) with a passion for the web and ac
 - Wordpress Plug-in Development
 - Vanilla JavaScript
 
-> The Web is For Everyone
+## The Web is For Everyone
 Something that gives me goosebumps every time is the image from the 2012 Olympic Games. Where "this is for everyone" is emblazoned across the stadium whilst Tim Berners Lee is centre stage pretending (I assume) to type on it on a computer. This sums up what Tim Berners Lee envisioned for the web and this is an ideology I wholeheartedly support. I make an effort to ensure that all of my projects are contributing to a web that is for everyone.
 
 ## Some things I like to read about and include in my projects are:
