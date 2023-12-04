@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# About Me
+<h1>About Me</h1>
 
 I’m a front end developer (and web designer) with a passion for the web and accessibility. A career switcher after 10+ years working for member-led organisation I have spent the last couple of years developing my front end development and web design skills which includes a Masters Degree from the University of Greenwich in Web Design and Content Planning.
 
