@@ -23,7 +23,11 @@ I’m a front end developer (and web designer) with a passion for the web and ac
 - Vanilla JavaScript
 
 ## The Web is For Everyone
-Something that gives me goosebumps every time is the image from the 2012 Olympic Games. Where "this is for everyone" is emblazoned across the stadium whilst Tim Berners Lee is centre stage pretending (I assume) to type on it on a computer. This sums up what Tim Berners Lee envisioned for the web and this is an ideology I wholeheartedly support. I make an effort to ensure that all of my projects are contributing to a web that is for everyone.
+Something that gives me goosebumps every time is the image from the 2012 Olympic Games. Where "this is for everyone" is emblazoned across the stadium whilst Tim Berners Lee is centre stage apparently live tweeting this on a computer. This sums up what Tim Berners Lee envisioned for the web and this is an ideology I wholeheartedly support. I make an effort to ensure that all of my projects are contributing to a web that is for everyone.
+
+<picture align="center"> 
+  <img alt="the opening olypmic games ceremony stadium. The crowd appears to be lit blue and there is white text which reads 'this is for everyone' " width="50%" src="https://i.guim.co.uk/img/media/25735967b79b684a313445f010fb20af48dde538/0_80_2600_1560/master/2600.jpg?width=880&dpr=2&s=none">
+</picture>
 
 ## Some things I like to read about and include in my projects are:
 - W3C and WCAG
