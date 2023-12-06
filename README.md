@@ -1,3 +1,6 @@
+<picture>
+  <img src="banner.jpg">
+</picture>
 <h1 align="center">About Me</h1>
 <p align="center"><a href="https://adelei.co.uk/">Portfolio</a> . <a href="https://adelei.co.uk/journal/">Blog</a> . <a href="https://www.linkedin.com/in/nicola-adele-simmonds/)">LinkedIn</a></p>
 
