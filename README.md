@@ -1,5 +1,5 @@
 <picture>
-  <img src="banner.jpg">
+  <img alt="a landscape with a mixture of arid land and some very green trees. I very blue stream runs horizontally across the scene and in the background there are several hills and mountains" src="banner.jpg">
 </picture>
 <h1 align="center">About Me</h1>
 <p align="center"><a href="https://adelei.co.uk/">Portfolio</a> . <a href="https://adelei.co.uk/journal/">Blog</a> . <a href="https://www.linkedin.com/in/nicola-adele-simmonds/)">LinkedIn</a></p>
